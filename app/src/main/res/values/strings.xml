@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AutoCompleteTextViewDemo</string>
+    <string-array name="company">
+        <item>BAP</item>
+        <item>AsianTech</item>
+        <item>SmartDev</item>
+        <item>Framgia</item>
+        <item>NeoLab</item>
+        <item>Enclave</item>
+        <item>Sioux</item>
+        <item>Axon Active</item>
+    </string-array>
+</resources>
